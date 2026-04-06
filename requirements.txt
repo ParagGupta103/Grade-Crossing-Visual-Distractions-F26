@@ -2,6 +2,7 @@
 pandas
 requests
 torch
+python-dotenv
 
 # Include YOLOv5 Dependencies
 -r yolov5/requirements.txt
