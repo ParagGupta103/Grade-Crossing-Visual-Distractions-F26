@@ -55,7 +55,7 @@ The project follows a three-stage pipeline managed by a central execution script
 ## Usage
 To run the entire pipeline from image collection to final risk report:
 ```bash
-python main.py
+python3 main.py
 ```
 
 ## Expected Output Example
