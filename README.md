@@ -6,7 +6,7 @@ This project identifies and analyzes potential visual distractions at railroad g
 The primary goal is to provide a scalable tool for safety inspectors and urban planners to prioritize grade crossings for physical improvements or further inspection.
 
 ## Project Team
-**MBS Externship F26 Visual Distractions Team**
+**MBS Externship Collabrative Solutions F26 Visual Distractions Team**
 
 ## System Architecture
 The project follows a three-stage pipeline managed by a central execution script (`main.py`).
