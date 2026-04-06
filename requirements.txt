@@ -1,0 +1,7 @@
+# Main Project Dependencies
+pandas
+requests
+torch
+
+# Include YOLOv5 Dependencies
+-r yolov5/requirements.txt
